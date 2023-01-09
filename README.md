@@ -24,4 +24,4 @@
 
 Сохраните в Git скриншот дашборда с названием «Задание 4».
 
-https://github.com/green307/Knyazev9.3/blob/main/Задание4.jpg
+![alt text](https://github.com/green307/Knyazev9.3/blob/main/Задание4.jpg)
